@@ -45,6 +45,7 @@ Purpose: Allows cloning existing product objects to create new ones.
 Benefit: Facilitates rapid data entry by copying attributes from a template object and only modifying unique fields like SKU.
 
  GUI & Core Features
+ ![Inventory GUI Screenshot](GUI_inventory.png)
 
     Modern UI: Dark-themed professional interface built with Java Swing. 
 
